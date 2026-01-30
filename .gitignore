@@ -56,3 +56,5 @@ Module.symvers
 Mkfile.old
 dkms.conf
 260130_cprogram/jw_1/jw_1/x64/
+260130_cprogram/motor_control/.vs/
+260130_cprogram/motor_control/motor_control/obj/
